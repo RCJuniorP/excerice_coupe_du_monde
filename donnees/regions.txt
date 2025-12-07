@@ -1,0 +1,7 @@
+UEFA = Europe
+CONMEBOL = Amérique du Sud
+CAF = Afrique
+AFC = Asie
+OFC = Océanie
+CONCACAF = Amérique du Nord/Centrale
+* = Inconnu
